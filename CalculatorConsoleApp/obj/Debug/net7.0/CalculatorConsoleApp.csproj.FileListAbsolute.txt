@@ -1,0 +1,15 @@
+/Users/khoirudinkrisnapratama/Desktop/Calculator/CalculatorConsoleApp/CalculatorConsoleApp/bin/Debug/net7.0/CalculatorConsoleApp
+/Users/khoirudinkrisnapratama/Desktop/Calculator/CalculatorConsoleApp/CalculatorConsoleApp/bin/Debug/net7.0/CalculatorConsoleApp.deps.json
+/Users/khoirudinkrisnapratama/Desktop/Calculator/CalculatorConsoleApp/CalculatorConsoleApp/bin/Debug/net7.0/CalculatorConsoleApp.runtimeconfig.json
+/Users/khoirudinkrisnapratama/Desktop/Calculator/CalculatorConsoleApp/CalculatorConsoleApp/bin/Debug/net7.0/CalculatorConsoleApp.dll
+/Users/khoirudinkrisnapratama/Desktop/Calculator/CalculatorConsoleApp/CalculatorConsoleApp/bin/Debug/net7.0/CalculatorConsoleApp.pdb
+/Users/khoirudinkrisnapratama/Desktop/Calculator/CalculatorConsoleApp/CalculatorConsoleApp/obj/Debug/net7.0/CalculatorConsoleApp.csproj.AssemblyReference.cache
+/Users/khoirudinkrisnapratama/Desktop/Calculator/CalculatorConsoleApp/CalculatorConsoleApp/obj/Debug/net7.0/CalculatorConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khoirudinkrisnapratama/Desktop/Calculator/CalculatorConsoleApp/CalculatorConsoleApp/obj/Debug/net7.0/CalculatorConsoleApp.AssemblyInfoInputs.cache
+/Users/khoirudinkrisnapratama/Desktop/Calculator/CalculatorConsoleApp/CalculatorConsoleApp/obj/Debug/net7.0/CalculatorConsoleApp.AssemblyInfo.cs
+/Users/khoirudinkrisnapratama/Desktop/Calculator/CalculatorConsoleApp/CalculatorConsoleApp/obj/Debug/net7.0/CalculatorConsoleApp.csproj.CoreCompileInputs.cache
+/Users/khoirudinkrisnapratama/Desktop/Calculator/CalculatorConsoleApp/CalculatorConsoleApp/obj/Debug/net7.0/CalculatorConsoleApp.dll
+/Users/khoirudinkrisnapratama/Desktop/Calculator/CalculatorConsoleApp/CalculatorConsoleApp/obj/Debug/net7.0/refint/CalculatorConsoleApp.dll
+/Users/khoirudinkrisnapratama/Desktop/Calculator/CalculatorConsoleApp/CalculatorConsoleApp/obj/Debug/net7.0/CalculatorConsoleApp.pdb
+/Users/khoirudinkrisnapratama/Desktop/Calculator/CalculatorConsoleApp/CalculatorConsoleApp/obj/Debug/net7.0/CalculatorConsoleApp.genruntimeconfig.cache
+/Users/khoirudinkrisnapratama/Desktop/Calculator/CalculatorConsoleApp/CalculatorConsoleApp/obj/Debug/net7.0/ref/CalculatorConsoleApp.dll
